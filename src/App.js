@@ -3,6 +3,8 @@ import './App.css';
 import Home from './pages/Home';
 import LoginPage from './pages/LoginPage';
 import SignupPage from './pages/SignupPage';
+import Cart from './features/cart/Cart';
+import CartPage from './pages/CartPage';
 
 import {
   createBrowserRouter,
@@ -23,6 +25,10 @@ const router = createBrowserRouter([
   {
     path: '/signup',
     element: <SignupPage></SignupPage>,
+  },
+  { // only for testing - then page will be addedAdd commentMore actions
+    path: '/cart',
+    element: <CartPage></CartPage>,
   },
 ]);
 
