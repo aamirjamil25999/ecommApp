@@ -69,7 +69,7 @@ const products = [
     name: 'Basic Tee',
     href: '#',
     imageSrc:
-      'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      'https://thebanyantee.com/cdn/shop/files/Black-T-shirt.jpg?v=1721380366&width=1646',
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -79,7 +79,7 @@ const products = [
     name: 'Basic Tee',
     href: '#',
     imageSrc:
-      'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      'https://thebanyantee.com/cdn/shop/files/Black-T-shirt.jpg?v=1721380366&width=1646',
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',
@@ -89,7 +89,7 @@ const products = [
     name: 'Basic Tee',
     href: '#',
     imageSrc:
-      'https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg',
+      'https://thebanyantee.com/cdn/shop/files/Black-T-shirt.jpg?v=1721380366&width=1646',
     imageAlt: "Front of men's Basic Tee in black.",
     price: '$35',
     color: 'Black',

@@ -39,7 +39,7 @@ function NavBar({ children }) {
                     <div className="flex-shrink-0">
                       <img
                         className="h-8 w-8"
-                        src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQNqAHsQa9s-6WXRaV_QQJ1XG34ExIKh7GQ&s"
                         alt="Your Company"
                       />
                     </div>
